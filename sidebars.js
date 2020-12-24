@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Bugs: ["pdf-bug"],
+    Bugs: ["home", "new-link"],
     Docusaurus: ["doc1", "doc2", "doc3"],
     Features: ["mdx"],
   },
