@@ -1,11 +1,11 @@
 module.exports = {
   title: "My Site",
   tagline: "The tagline of my site",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://theodorechu.github.io/docusaurus-bug-report-demos",
+  baseUrl: "/docusaurus-bug-report-demos/",
   favicon: "img/favicon.ico",
   organizationName: "theodorechu", // Usually your GitHub org/user name.
-  projectName: "docusaurus-demos", // Usually your repo name.
+  projectName: "docusaurus-bug-report-demos", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
